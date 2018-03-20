@@ -7,12 +7,12 @@ Remove duplicated protein/nucleic acid sequences, keeping the first occurrence.
 
 It works like the Unix 'uniq' command, but for sequences and it does not require any previous sorting. It can be inserted in command pipes.
 
+## Installation
+This is a Python script, so, you can just run the uniqseq.py file or put a symbolic link in any directory of your PATH (e.g. /usr/local/bin). The second option is recommend.
+
 ## Dependencies
 * Python3
 * Biopython
-
-## Installation
-This is a Python script, so, you can just run the uniqseq.py file or put a symbolic link in any directory of your PATH (e.g. /usr/local/bin). The second option is recommend.
 
 ## OSs
 It runs in Linux, probably in Mac OS too, but not tested.
