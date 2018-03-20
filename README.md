@@ -23,5 +23,5 @@ It runs in Linux, probably in Mac OS too, but not tested.
 
 `uniqseq input_redundant_seqs.pir output_seqs.pir -f pir`
 
-`cat redundant_seqs.fasta | uniqseqs > uniq_seqs.fasta`
+`cat redundant_seqs.fasta | uniqseq > uniq_seqs.fasta`
 
