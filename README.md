@@ -13,6 +13,7 @@ This is a Python script, so, you can just run the uniqseq.py file or put a symbo
 ## Dependencies
 * Python3
 * Biopython
+* argparse
 
 ## OSs
 It runs in Linux, probably in Mac OS too, but not tested.
